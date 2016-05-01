@@ -10,7 +10,7 @@ using namespace std;
 
 int menu() {
 	int a;
-	cout << "Select one" << endl;
+	cout << "Select" << endl;
 	cout << "[1] insert" << endl;
 	cout << "[2] pop" << endl;
 	cout << "[3] list" << endl;
